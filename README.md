@@ -18,5 +18,5 @@
 
 # 면접내용 보러가기
 
-- [휴_앱개발지원](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴-앱개발지원)
+- [휴_앱개발지원](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_앱개발지원)
 
