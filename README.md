@@ -1,7 +1,22 @@
 # 면접 내용 공유방법 
 
 - Fork를 사용하여 로컬에 repository를 만들어주세요!
-- 면접 볼 때 받았던 질문들을 정리하 신 후, 저에게 pull request를 쏴주세요!
-- readMe로 내용을 정리해주시면 좋지만 편하신 대로 정리해주셔도 됩니다!
-- Link Practice[practice](https://github.com/tjrkdgnl/CS_Interview_Question/AOS)
+
+- 각자의 폴더를 만들고 그 안에서 질문받으신 내용을 작성해주세요.
+
+- 폴더의 이름은 [카카오톡이름_백앤드지원] 이렇게만 작성해주시면 될 것 같습니다.
+
+- pull request를 통해서 작성하신 파일을 저에게 보내주세요.
+
+- README로 정리해주시면 가장 좋지만 다른 파일로 보내주셔도 됩니다. 
+
+  
+
+------
+
+
+
+# 면접내용 보러가기
+
+- [휴_앱개발지원](https://github.com/tjrkdgnl/CS_Interview_Question/휴_앱개발지원/README.md)
 
