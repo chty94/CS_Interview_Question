@@ -26,4 +26,4 @@
 
 # 면접내용 보러가기
 
-- [휴_AOS](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_AOS-README.md)
+- [휴_AOS](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/%ED%9C%B4_AOS#readme)
