@@ -1,14 +1,14 @@
-- # 면접 내용 공유방법 
+# 면접 내용 공유방법 
 
-  1. **Fork를 사용하여 로컬에 repository를 만들어주세요‼️ (clone 하지 말아주세요 ㅜㅜ)**
+1. **Fork를 사용하여 로컬에 repository를 만들어주세요‼️ **
+   - 예시: 우측 상단에 fork를 눌러서 local에 생성하시면됩니다! 
+   
+2. **각자의 폴더를 만들어주세요‼️**
+    - 예시: CS_Interview_Question 폴더 -> 휴_AOS 폴더 생성 
 
-     - 예시: 우측 상단에 fork를 눌러서 local에 생성하시면됩니다! 
+3. **폴더의 이름은 [카카오톡이름_BackEnd/ FrontEnd] 이렇게 자신이 지원한 분야만 적어주세요‼️**
 
-  2. **각자의 폴더를 만들어주세요‼️**
-      - 예시: CS_Interview_Question 폴더 -> 휴_AOS 폴더 생성 
-
-  3. **폴더의 이름은 [카카오톡이름_BackEnd/FrontEnd] 이렇게 자신이 지원한 분야만 적어주세요‼️**
-      - 예시: 휴_FrontEnd
+   - 예시: 휴_FrontEnd
 
   4. **폴더 안에 내용을 작성해주세요‼️**
       - 예시:  휴_FrontEnd 폴더 -> README.md or text file 생성 -> 내용작성 
@@ -20,10 +20,11 @@
 
       
 
-  ------
+------
 
   
 
   # 면접내용 보러가기
 
-  - [휴_FrontEnd](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_FrontEnd#readme)
+- [휴_FrontEnd](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_FrontEnd#readme)
+
