@@ -43,10 +43,10 @@
  ## Merge와 Rebase
   ### merge란?
   - 개념
-    - 두 커밋을 병합하는 기능을 말한다. 파생된 branch의 root commit과 master branch가 가르키고 있는 commit이 다르면 새로운 commit을 생성하여 commit을 합친다.
+    - 두 커밋을 병합하는 기능을 말한다. 파생된 branch의 root commit과 master branch의 commit이 다르면 새로운 commit을 생성하여 commit을 합친다.
 
-  #### 상황 1. master branch에서 develop 브랜치를 만들어서 commit 4,5가 추가된 경우
-
+  #### 상황 1. master branch의 commit과 develop 브랜치의 root commit이 동일한 경우 (root 커밋이란 처음 파생된 커밋을 뜻함)
+  
   ![Untitled](https://user-images.githubusercontent.com/45396949/122182171-00122380-cec5-11eb-923e-5997d328d4c7.png)
 
   develop branch가 가장 최신의 commit인 상황일 때 merge가 된다면 별도로 새로운 커밋을 생성하지 않고 가장 최신의 commit으로 branch를 이동시킨다.
@@ -55,7 +55,7 @@
 
   이처럼 fast-forward가 가장 최신의 커밋을 가르키는 가장 이상적인 상황이기 때문에 그래프가 단순하다.
 
-  #### 상황 2. master 브랜치의 commit이 계속 추가되는 경우
+  #### 상황 2. master branch의 commit과 develop 브랜치의 root commit이 달라지는 경우 (root 커밋이란 처음 파생된 커밋을 뜻함)
 
   ![Untitled](https://user-images.githubusercontent.com/45396949/122183630-63508580-cec6-11eb-8275-13f1a33eb57b.png)
 
