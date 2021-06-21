@@ -4,9 +4,9 @@
    
    - 예시: 우측 상단에 fork를 눌러서 local에 생성하시면됩니다! 
    
-2. **CS_Interview_Question 폴더 안에 각자의 폴더를 만들어주세요‼️**
+2. **NaverWorks_CS_Interview 폴더 안에 각자의 폴더를 만들어주세요‼️**
    
-    - 예시: CS_Interview_Question 폴더 -> 휴_AOS 폴더 생성 
+    - 예시: NaverWorksCS_Interview 폴더 -> 휴_AOS 폴더 생성 
     
 3. **폴더의 이름은 [카카오톡이름_BackEnd/ FrontEnd] 이렇게 자신이 지원한 분야만 적어주세요‼️**
 
