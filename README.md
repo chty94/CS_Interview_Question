@@ -4,7 +4,7 @@
    
    - 예시: 우측 상단에 fork를 눌러서 local에 생성하시면됩니다! 
    
-2. ** CS_Interview_Question 폴더 안에 각자의 폴더를 만들어주세요‼️**
+2. **CS_Interview_Question 폴더 안에 각자의 폴더를 만들어주세요‼️**
    
     - 예시: CS_Interview_Question 폴더 -> 휴_AOS 폴더 생성 
     
