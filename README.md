@@ -30,5 +30,12 @@
 
   # 면접내용 보러가기
 
-- [휴_FrontEnd](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_FrontEnd#readme)
+### Mobile
+
+- [휴_Android](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/휴_FrontEnd#readme)
+- [얕얕_IOS](https://github.com/tjrkdgnl/CS_Interview_Question/blob/main/%EC%96%84%EC%96%84_iOS#readme)
+
+### BackEnd
+- [웅_BackEnd](https://github.com/tjrkdgnl/CS_Interview_Question/tree/main/%EC%9B%85_BackEnd)
+- [대기자_Backend](https://github.com/tjrkdgnl/CS_Interview_Question/blob/main/%EB%8C%80%EA%B8%B0%EC%9E%90_BackEnd#readme)
 
